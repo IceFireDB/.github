@@ -11,3 +11,7 @@ IceFireDB is a database built for web3 and web2. The core mission of the project
     src="https://raw.githubusercontent.com/IceFireDB/IceFireDB/main/imgs/project_purpose.png" 
      alt="project_purpose">
 </p>
+
+# Project direction
+
+IceFireDB originated from the distributed NoSQL database in the web2 scenario. We will continue to support the web2 distributed NoSQL database, while investing more energy in the direction of web3 and web2 decentralized databases. We are very grateful to our community partners for their continued interest, the community has been our driving force.
