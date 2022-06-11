@@ -1,5 +1,3 @@
-# Welcome to IceFireDB
-
 <p align="center">
 <img 
     src="https://raw.githubusercontent.com/IceFireDB/IceFireDB/main/icefiredb-bridge.png" 
@@ -23,7 +21,7 @@ IceFireDB is a database built for web3 and web2. The core mission of the project
 1. [IceFireDB-SQLite](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite)
 
 2. [IceFireDB-SQLProxy](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLProxy)
-3. [IceFireDB-NoSQL](https://github.com/IceFireDB)
+3. [IceFireDB-NoSQL]([https://github.com/IceFireDB](https://github.com/IceFireDB/IceFireDB))
  
 # Project direction
 
