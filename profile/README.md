@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-    src="[./icefiredb-bridge.png](https://raw.githubusercontent.com/IceFireDB/IceFireDB/main/icefiredb-bridge.png)" 
+    src="https://raw.githubusercontent.com/IceFireDB/IceFireDB/main/icefiredb-bridge.png" 
      alt="icefiredb-bridge">
 </p>
 
