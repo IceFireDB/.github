@@ -26,7 +26,7 @@ IceFireDB is a database built for web3 and web2. The core mission of the project
 
 4. [IceFireDB-Redis-Proxy](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-Redis-Proxy)
 
-5. [IceFireDB-PubSub](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-Redis-PubSub)
+5. [IceFireDB-PubSub](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-PubSub)
 
 # Project direction
 
