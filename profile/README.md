@@ -21,7 +21,10 @@ IceFireDB is a database built for web3 and web2. The core mission of the project
 1. [IceFireDB-SQLite](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLite)
 
 2. [IceFireDB-SQLProxy](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-SQLProxy)
+
 3. [IceFireDB-NoSQL](https://github.com/IceFireDB/IceFireDB)
+
+4. [IceFireDB-Redis-Proxy](https://github.com/IceFireDB/IceFireDB/tree/main/IceFireDB-Redis-Proxy)
  
 # Project direction
 
