@@ -12,7 +12,7 @@ IceFireDB is a database built for web3 and web2. The core mission of the project
 
 <p align="center">
 <img 
-    src="https://github.com/user-attachments/assets/9ab412b6-cfdf-4bcd-a7c5-8119c934d905" 
+    src="https://github.com/user-attachments/assets/ab850808-0b5e-471e-a975-3c64055ccb7a" 
      alt="project_purpose">
 </p>
 
